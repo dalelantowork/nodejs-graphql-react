@@ -1,0 +1,6 @@
+## start and create client folder
+npx create-react-app client
+
+## install apollo client graphql
+cd client
+yarn add @apollo/client graphql
